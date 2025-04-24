@@ -1,1 +1,1 @@
-ibutang sa library ang LGoodDatePicker.jar
+Put LGoodDatePicker.jar in the library. This ensures that the date and time picker works well.
